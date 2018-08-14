@@ -32,7 +32,7 @@ var MainScene = createReactClass({
                           require('./portal_res/portal_wood_frame/portal_wood_frame_specular.png')]}
               type="VRX"/>
           </ViroPortal>
-          <Viro360Video source={require("./portal_res/test.mp4")} loop={true} />
+          <Viro360Video source={require("./portal_res/waterfall.mp4")} loop={true} />
         </ViroPortalScene>
       </ViroARScene>
     );
