@@ -12,11 +12,6 @@ AR (Android)
 OSX/Linux computer
 An ARCore supported device
 
-VR
-OSX or Linux computer
-Recent Android or iOS Device (Android requirements: Android 5.0+ w/ gyroscope support and OpenGl ES 3.0, iOS requirements: iOS 9.0+)
-Cardboard headset
-
 DEPENDENCIES:
   - node, watchman, react-native-cli, react-viro-cli
   
@@ -26,5 +21,5 @@ INSTRUCTIONS TO RUN THE APP:
   - Run npm start in your terminal. The NGrok Packager Server endpoint url will be displayed there
   - In the Viro media app open the menu and then select "enter testbed"
   - Enter the NGrok url into the input field on the app
-  - Select AR or VR if you have a headset. The window can take 30 seconds to a minute to load
+  - Select AR The window can take 30 seconds to a minute to load
   - A pitcure frame will appear and you walk through it to view the scene
