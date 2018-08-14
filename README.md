@@ -25,5 +25,5 @@ Instructions to run the app:
   - Download or clone this repo and cd into it
   - Run npm start in your terminal. The NGrok Packager Server endpoint url will be displayed there
   - In the Viro media app open the menu and then select "enter testbed"
-  - Enter the NGrok Packager Server endpoint url into field on the app
+  - Enter the NGrok url into the input field on the app
   - Select either VR or AR. The window can take 30 seconds to a minute to load
