@@ -27,3 +27,4 @@ INSTRUCTIONS TO RUN THE APP:
   - In the Viro media app open the menu and then select "enter testbed"
   - Enter the NGrok url into the input field on the app
   - Select either VR or AR. The window can take 30 seconds to a minute to load
+  - A pitcure frame will appear and you walk through it to view the scene
