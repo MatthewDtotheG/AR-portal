@@ -35,7 +35,7 @@ var styles = StyleSheet.create({
     fontSize: 60,
     color: '#ffffff',
     textAlignVertical: 'center',
-    textAlign: 'center',  
+    textAlign: 'center',
   },
 });
 
