@@ -17,10 +17,10 @@ OSX or Linux computer
 Recent Android or iOS Device (Android requirements: Android 5.0+ w/ gyroscope support and OpenGl ES 3.0, iOS requirements: iOS 9.0+)
 Cardboard headset (you can find some QR codes here)
 
-Dependencies: 
+DEPENDENCIES:
   - node, watchman, react-native-cli, react-viro-cli
   
-Instructions to run the app:
+INSTRUCTIONS TO RUN THE APP:
   - Download "Viro Media" app onto your mobile device
   - Download or clone this repo and cd into it
   - Run npm start in your terminal. The NGrok Packager Server endpoint url will be displayed there
