@@ -26,5 +26,5 @@ INSTRUCTIONS TO RUN THE APP:
   - Run npm start in your terminal. The NGrok Packager Server endpoint url will be displayed there
   - In the Viro media app open the menu and then select "enter testbed"
   - Enter the NGrok url into the input field on the app
-  - Select either VR or AR. The window can take 30 seconds to a minute to load
+  - Select AR or VR if you have a headset. The window can take 30 seconds to a minute to load
   - A pitcure frame will appear and you walk through it to view the scene
