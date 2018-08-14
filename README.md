@@ -15,7 +15,7 @@ An ARCore supported device
 VR
 OSX or Linux computer
 Recent Android or iOS Device (Android requirements: Android 5.0+ w/ gyroscope support and OpenGl ES 3.0, iOS requirements: iOS 9.0+)
-Cardboard headset (you can find some QR codes here)
+Cardboard headset
 
 DEPENDENCIES:
   - node, watchman, react-native-cli, react-viro-cli
